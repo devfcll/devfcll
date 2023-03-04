@@ -3,7 +3,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amorimmjoao/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joaowp/)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=devfcll&show_icons=true&theme=synthwave)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=devfcll&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
 
@@ -13,11 +13,11 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img align="center" alt="bootstrap" src"https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 <br/>
 
-### Estudante de ADS, apaixonado por tecnologia e cibersegurança.
+### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e cibersegurança.
 
 <br/>
 <div style="display: inline_block">
